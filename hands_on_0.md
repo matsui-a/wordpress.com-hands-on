@@ -8,12 +8,12 @@
 
 ![](https://i.imgur.com/osWMvZ3.png)
 
-テーマ（ブログの見た目）を選択します。
+テーマ（ブログの見た目）を選択します。  
 ここは後でも変更できるので、この時点では適当に選んでください。
 
 ![](https://i.imgur.com/KpWthfW.png)
 
-ドメイン（URL）を決めます。
+ドメイン（URL）を決めます。  
 無料版の場合、**希望のドメイン名.wordpress.com** という形になります。
 
 ![](https://i.imgur.com/PNkkn3F.png)
