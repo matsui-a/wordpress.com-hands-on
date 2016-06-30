@@ -3,8 +3,7 @@
 WordCamp Kansai 2016のハンズオン「WordPress.comを使って個人ブログを作ってみよう!」用資料です。
 
 ## **そもそも「WordPress.comって何？」という方**
-[こちら](https://hackmd.io/p/rJlNSZt7#/)をどうぞ
-(slideshareを予定)
+[こちら](http://www.slideshare.net/secret/qSe9lwLq6CaO4w)をどうぞ
 
 
 ## **ハンズオンの対象者**

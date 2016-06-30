@@ -10,12 +10,10 @@
 
 ![](https://i.imgur.com/0yBTfyh.png)
 
-> [WordPress.com プラン | WordPress.com ストア](./hands_on_12.md)へ
-
+> [WordPress.com プラン | WordPress.com ストア](https://ja.wordpress.com/pricing/)へ
 
 
 すこし手間をかけてもいいから、安くすませたいという方は、
-インストール版の[WordPress.org](https://ja.wordpress.org/)にチャレンジしてみましょう。
+インストール版の[WordPress.org](https://ja.wordpress.org/)にもチャレンジしてみましょう。
 
-サーバーや独自ドメインを契約したり、その分知識は必要になりますが、
-やりがいはあるかなと思います。
+サーバーや独自ドメインを契約したり、その分知識は必要になりますが、やりがいはあるかなと思います。
